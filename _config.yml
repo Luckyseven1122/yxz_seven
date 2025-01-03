@@ -10,11 +10,11 @@
 locale                   : "en-US"
 title                    : "Yaoxuan(Seven)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yaoxuan(Seven) Zhu"
 description              : &description "personal description"
-url                      : https://luckyseven1122.github.io/yaoxuanz_seven/ #https://yaoxuanz_seven.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://luckyseven1122.github.io/yxz_seven #https://yaoxuanz_seven.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Luckyseven1122/yaoxuanz_seven"
+repository               : "Luckyseven1122/yxz_seven"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
