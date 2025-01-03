@@ -27,6 +27,7 @@
     - gen install bundler 
     - gem install jekyll bundler
     - bundle install
+    - enter cv folder path: cd /Users/yaoxuanzhu/Documents/Github_personal_web/Yaoxuan_Seven.github.io
     - jekyll serve -l -H localhost -P 4001 
         * encouter issue: 
         "You have already activated public_suffix 6.0.1, but your Gemfile requires public_suffix 5.1.1. Prepending `bundle exec` to your command may solve this. (Gem::LoadError)"
