@@ -21,10 +21,10 @@ repository               : "luckyseven1122/yxz_seven"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Yaoxuan_Zhu.png"
+  avatar           : "Yaoxuan.jpg"
   name             : "Yaoxuan(Seven) Zhu"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. researcher in Intelligent Manufacturing "
+  bio              : "Ph.D. researcher in Intelligent Manufacturing"
   location         : "Stockholm, Sweden"
   employer         : "Royal Institute of Technology"
   uri              : # URL
@@ -102,7 +102,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "main" # "master", "gh-pages" (default)
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
