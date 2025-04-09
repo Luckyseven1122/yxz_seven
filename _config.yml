@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yaoxuan(Seven)'s Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Yaoxuan(Seven) Zhu"
 description              : &description "personal description"
