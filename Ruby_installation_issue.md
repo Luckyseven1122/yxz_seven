@@ -24,7 +24,7 @@
         - rbenv global 3.3.6
     * show current version that system recognize 
         - ruby -v
-    - gen install bundler 
+    - gem install bundler 
     - gem install jekyll bundler
     - bundle install
     - enter cv folder path: cd /Users/yaoxuanzhu/Documents/Github_personal_web/Yaoxuan_Seven.github.io
@@ -35,3 +35,6 @@
         - bundle exec jekyll serve -l -H localhost
     * jump out of command 
         - ctrl + c
+
+## PS: 
+- The external website: https://luckyseven1122.github.io/yxz_seven (related repo in Github needs to be published, otherwise, website will not display the content)
