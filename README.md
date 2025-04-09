@@ -2,7 +2,7 @@
 
 ## Relationship between Ruby, Gem and Bundler
 * Ruby is OOB (object oriented) programming language for website building
-* Gem is Ruby language's package mamagement system; Ruby is like Python; Gem is like pip
+* Gem is Ruby language's package management system; Ruby is like Python; Gem is like pip
 * Bundler is command code for version control of Ruby
 * Gemfile is like requirements.text or requirements.yml in python, in which all ruby packages used for this project is written, it can be compile 
 * Based on compiled Gemfile, the bundler will automatically generate Gemfile.lock
@@ -27,9 +27,9 @@
     - gem install bundler 
     - gem install jekyll bundler
     - bundle install
-    - enter cv folder path: cd /Users/yaoxuanzhu/Documents/Github_personal_web/Yaoxuan_Seven.github.io
+    - enter cv folder path: cd /Documents/Github_personal_web/Yaoxuan_Seven.github.io
     - jekyll serve -l -H localhost -P 4001 
-        * encouter issue: 
+        * encounter issue: 
         "You have already activated public_suffix 6.0.1, but your Gemfile requires public_suffix 5.1.1. Prepending `bundle exec` to your command may solve this. (Gem::LoadError)"
         * Solution: change code
         - bundle exec jekyll serve -l -H localhost
